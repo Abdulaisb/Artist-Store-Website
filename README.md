@@ -1,6 +1,6 @@
 # Artist-Store-Website
 
-I am embarking on a personal journey to learn front-web development with this personal project
+I am embarking on a personal journey to learn front-end web development from scratch
 The intention is to create a website for an aritist that with the following features
 
 - An about page describing the artist
